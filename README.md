@@ -1,1 +1,1 @@
-# sql_online_book_project
+# sql_online_book_store_project
