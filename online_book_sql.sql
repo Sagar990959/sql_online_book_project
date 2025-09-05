@@ -56,12 +56,12 @@ select* from orders;
 select* from orders
 where quantity>1;
 
-#8: Retrieve all the orders where the total amount exceeds $20.
+#8: Retrieve all the orders where total_amount exceeds 200.
 
 select* from orders;
 
 select* from orders
-where total_amount>20;
+where total_amount>200;
 
 #9: List all the genres available in the books table.
 
